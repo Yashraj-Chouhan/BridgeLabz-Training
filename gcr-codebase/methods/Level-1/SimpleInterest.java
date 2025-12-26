@@ -12,5 +12,6 @@ public class SimpleInterest{
 		
 		System.out.println("The Simple Interest is"+ simpleInterest(principal,rate,time)+" for Principal "+principal+
 		                    " Rate of Interest "+ rate + " and Time ");
+							
 	}
 }
