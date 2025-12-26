@@ -1,0 +1,21 @@
+# =========================
+# Eclipse (MUST IGNORE)
+# =========================
+.metadata/
+.recommenders/
+.settings/
+.project
+.classpath
+
+# =========================
+# Java build output
+# =========================
+bin/
+target/
+*.class
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
