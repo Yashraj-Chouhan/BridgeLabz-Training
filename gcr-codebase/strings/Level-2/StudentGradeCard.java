@@ -56,8 +56,6 @@ public class StudentGradeCard {
     // Method to display scorecard
     public static void display(int[][] scores, double[][] result, String[] grade) {
         System.out.println("\nPhy\tChem\tMath\tTotal\tAvg\t%\tGrade");
-        System.out.println("--------------------------------------------------");
-
         for (int i = 0; i < scores.length; i++) {
             System.out.println(
                 scores[i][0] + "\t" +
