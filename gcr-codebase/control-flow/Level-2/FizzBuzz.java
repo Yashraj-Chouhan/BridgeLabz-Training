@@ -1,31 +1,31 @@
 import java.util.Scanner;
 
-public class FizzBuzz 
-	public static void main(String[] args) {
+public class FizzBuzz {
 
-		//creating object of scanner class
+    public static void main(String[] args) {
+
+        // creating object of Scanner class
         Scanner input = new Scanner(System.in);
 
-		//taking input from user
-		System.out.println("Enter number");
-		int number = input.nextInt();
+        // taking input from user
+        System.out.println("Enter number");
+        int number = input.nextInt();
 
-		//
-		if (number > 0) {
-        for (int i = 1; i <= number; i++) {
-        if (i % 3 == 0 && i % 5 == 0)
-          System.out.println("FizzBuzz");
-        else if (i % 3 == 0)
-          System.out.println("Fizz");
-        else if (i % 5 == 0)
-          System.out.println("Buzz");
-        else
-          System.out.println(i);
-      }
-    }
+        if (number > 0) {
+            for (int i = 1; i <= number; i++) {
 
+                if (i % 3 == 0 && i % 5 == 0)
+                    System.out.println("FizzBuzz");
+                else if (i % 3 == 0)
+                    System.out.println("Fizz");
+                else if (i % 5 == 0)
+                    System.out.println("Buzz");
+                else
+                    System.out.println(i);
+            }
+        }
 
-		//closing scanner class stream
+        // closing scanner class stream
         input.close();
-  }
+    }
 }
