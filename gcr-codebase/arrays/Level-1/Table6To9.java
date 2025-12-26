@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class MultiplicationTable{
+public class Table6To9{
 	public static void main(String args[]){
 		//Take the input from user
 		Scanner sc=new Scanner(System.in);
