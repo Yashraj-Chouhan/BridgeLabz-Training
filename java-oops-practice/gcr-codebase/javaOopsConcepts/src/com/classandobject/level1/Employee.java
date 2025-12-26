@@ -1,4 +1,4 @@
-package com.classandobject;
+package com.classandobject.level1;
 
 public class Employee {
 	//non-static variables
