@@ -1,0 +1,17 @@
+package universitycourseenrollment;
+
+public class Enrollment {
+    private Student student;
+    private Course course;
+
+    Enrollment(Student student, Course course) {
+        this.student = student;
+        this.course = course;
+    }
+
+    public void showEnrollment() {
+        System.out.println(student.getTranscript());
+        System.out.println("Course: " + course.getTitle());
+    }
+}
+
