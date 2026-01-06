@@ -1,0 +1,88 @@
+## 📘 DSA(Data Structure and Algorithms)
+
+## 📂 Project Structure
+
+```text
+BridgeLabz-Training/
+│
+├── dsa-practice/
+│   │
+│   ├── gcr-codebase/
+│   │   └── JavaDsaPractice/
+│   │       └── src/
+│   │           └── com/
+│   │               └── (Core DSA implementations)
+│   │
+│   ├── leetcode-based-codebase/
+│   │   └── (LeetCode problem solutions)
+│   │
+│   ├── scenario-based-codebase/
+│   │   └── (Real-world DSA scenario problems)
+│   │
+│   └── README.md
+```
+
+---
+
+### 📅 Day 1 – Data Structures Overview
+**(Date: 02-Jan-2026)**  
+**Branch:** `dsa-practice`
+
+- Learned fundamentals of **Data Structures**
+- Explored **Linear & Non-Linear Data Structures**
+- Focused on **Linked Lists**:
+  - Singly Linked List
+  - Doubly Linked List
+  - Circular Linked List
+- Understood use cases, advantages, and limitations
+- Implemented basic real-world linked list problems
+
+ 🔗 Code Links:
+👉 [Day 1-  LinkedList](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/dsapractice/src/linkedlist)
+
+
+---
+
+### 📅 Day 2 – Stacks, Queues & Hashing
+**(Date: 03-Jan-2026)**  
+**Branch:** `dsa-practice`
+
+- Stack (LIFO): recursion, undo/redo, parenthesis check
+- Queue (FIFO): BFS, scheduling, task processing
+- Deque / PriorityQueue: optimized & priority-based access
+- HashMap: key–value storage, O(1) average lookup
+- Hashing: bucket mapping, collision handling
+- Practiced: balanced parentheses, BFS-style queues, sliding windows, hash-based lookups
+- Focus: optimized O(n) solutions & clean code
+
+  🔗 Code Links:
+👉 [Day 2 -  Stacks, Queues](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/dsapractice/src/stacks)
+👉 [hashmapandhashfunctions()
+
+
+---
+
+### 📅 Day 3 – Sorting Algorithms & Scenario-Based OOP
+**(Date: 05-Jan-2026)**  
+**Branch:** `dsa-practice` 
+
+### 🔹 Sorting Algorithms (DSA)
+
+Practiced fundamental **sorting techniques** to organize data efficiently:
+
+- **Bubble Sort** – Adjacent comparison & swapping
+- **Insertion Sort** – Build sorted array incrementally
+- **Selection Sort** – Select minimum & swap
+- **Merge Sort** – Divide & Conquer, stable sorting
+- **Quick Sort** – Pivot-based partitioning
+- **Heap Sort** – Max Heap based sorting
+- **Counting Sort** – Frequency-based non-comparison sort
+
+**Focus:**  
+- Time & space complexity analysis  
+- Comparison vs Non-comparison sorting  
+- In-place vs Stable sorting  
+- Real-world datasets (marks, prices, salaries, ages)
+
+🔗 **Code Links:**  
+👉 [Day 3- Sorting Algorithms ]()  
