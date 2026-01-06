@@ -35,7 +35,7 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 2 – OOPS Concepts ](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept)
+👉 [Day 2 – OOPS Concepts ](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice)
 
 ---
 
@@ -62,7 +62,7 @@ Improved understanding of:
 Committed and pushed all changes successfully.
 
 🔗 Code Link:  
-👉 [Day 2 – Constructors & Access Modifiers](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructorsandaccessmodifiers)
+👉 [Day 2 – Constructors & Access Modifiers](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcepts/src/com/constructors)
 
 ---
 
@@ -80,7 +80,7 @@ Committed and pushed all changes successfully.
 - Improved logic building through real-world problem scenarios.  
 
 🔗 **Code Link:**  
-👉 [Day 3 –  Core Java Keywords ](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords)
+👉 [Day 3 –  Core Java Keywords ](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcepts/src/com/javakeywords)
 
 ---
 
@@ -108,7 +108,7 @@ Learned core concepts of **Object Modeling** and **object communication** in Jav
   Modeled customer–bank relationships with object communication.
 
 🔗 **Code Link:**  
-👉 [Day 4 – Object Modeling](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodeling)
+👉 [Day 4 – Object Modeling](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcepts/src/com/objectmodeling)
 
 ---
 
@@ -126,7 +126,7 @@ Learned Inheritance in Java and its role in OOPS.
 - Modeled real-world hierarchies (Animal, Employee, Vehicle, Bank, Restaurant)
   
 🔗 Code Links:
-👉 [Day 5 -  Inheritance ](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
+👉 [Day 5 -  Inheritance ](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcepts/src/com/Inheritance)
 
 ---
 
@@ -156,8 +156,8 @@ Solved multiple real-world OOPS scenarios using a structured problem-solving app
 - Selected appropriate data structures (ArrayList, HashMap, etc.)
 
 🔗 Code Links:
-👉 [Day 6-  Encapsulation and Polymorphism](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulationandpolymorphism)
-👉 [Scenario-Based Problems-Day1](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day1)
+👉 [Day 6-  Encapsulation and Polymorphism](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcepts/src/com/encapsulationpolymorphism)
+👉 [Scenario-Based Problems-Day1](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based/ScenarioOopsPractice/src)
 
 ---
 
@@ -184,7 +184,7 @@ Practiced real-world scenarios to strengthen **Core OOP Concepts**:
 - Real-world object modeling  
 
   🔗 Code Links:
-👉 [Day 7 - Scenario-Based Problems-Day2](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day2)
+👉 [Day 7 - Scenario-Based Problems-Day2](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based/ScenarioOopsPractice/src)
 
 
 ---
@@ -203,7 +203,7 @@ Practiced real-world scenarios to strengthen **Core OOP Concepts**:
 - **MyBank (Banking System)**
 
   🔗 Code Links:
-👉 [Day 8- Scenario-Based Problems-Day3](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day3)
+👉 [Day 8- Scenario-Based Problems-Day3](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based/ScenarioOopsPractice/src)
 
 ---
 
@@ -229,7 +229,7 @@ Practiced real-world scenarios to strengthen **Core OOP Concepts**:
 - Used **constructors** & **operators** for calculations 
 
   🔗 Code Links:
-👉 [Day 9- Scenario-Based Problems-Day4](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day4)
+👉 [Day 9- Scenario-Based Problems-Day4](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based/ScenarioOopsPractice/src)
 
 
  
