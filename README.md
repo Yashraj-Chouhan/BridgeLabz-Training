@@ -474,7 +474,7 @@ BridgeLabz-Training/
 
   🔗 Code Links:
 👉 [Day 2 -  Stacks, Queues](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/dsapractice/src/stacks)
-👉 [hashmapandhashfunctions()
+👉 [hashmapandhashfunctions(https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/dsapractice/src/hashmap)
 
 
 ---
@@ -502,4 +502,4 @@ Practiced fundamental **sorting techniques** to organize data efficiently:
 - Real-world datasets (marks, prices, salaries, ages)
 
 🔗 **Code Links:**  
-👉 [Day 3- Sorting Algorithms ]()  
+👉 [Day 3- Sorting Algorithms ](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/dsapractice/src/sorting)  
