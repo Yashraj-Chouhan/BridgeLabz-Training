@@ -86,3 +86,41 @@ Practiced fundamental **sorting techniques** to organize data efficiently:
 
 🔗 **Code Links:**  
 👉 [Day 3- Sorting Algorithms ]()  
+### 🗓 Day 18 – Searching Algorithms & Java Utilities  
+**(Date: 06-Jan-2026)**
+- Studied Searching Algorithms:
+  - Linear Search
+  - Binary Search
+- Understood searching logic and comparison-based searching.
+- Studied Java mutable string classes:
+  - `StringBuilder`
+  - `StringBuffer`
+- Learned Java input handling using:
+  - `FileReader`
+  - `InputStreamReader`
+- Practiced implementations and solved problems on each concept.
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Searching & Java Utilities](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/dsapractice/src/sorting)
+### 🗓 Day 4 – Algorithm Runtime Analysis & Big-O Notation  
+**(Date: 07-Jan-2026)**
+- Studied algorithm runtime analysis.
+- Understood Big-O notation and its importance.
+- Analyzed time complexity of algorithms.
+- Analyzed space complexity and memory usage.
+- Learned best, worst, and average case complexities.
+- Studied practical guidelines for optimizing Java code.
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Runtime Analysis & Big-O Notation](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/analysis)
+---
+## 🧩 Section B : Scenario-Based Problems Progress
+
+### 🗓 Day 5 – Scenario-Based Practice  
+**(Date: 10-Jan-2026)**
+- Solved **3** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/ScenarioPracticeDSA/src/com/day01)
+
