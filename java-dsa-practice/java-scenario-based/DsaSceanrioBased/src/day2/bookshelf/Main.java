@@ -9,7 +9,6 @@ public class Main {
         shelf.addBook("Science", new Book("B201", "A Brief History of Time", "Stephen Hawking"));
 
         shelf.displayCatalog();
-
         System.out.println();
         shelf.borrowBook("Fiction", "B102");
 
