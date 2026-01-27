@@ -26,6 +26,7 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 
 ## 📂 Project Structure
 
+```
 BridgeLabz-Training/
 │
 ├── 📁 core-java-practice/
