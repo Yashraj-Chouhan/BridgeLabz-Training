@@ -18,12 +18,14 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 
 ### 🔹 [dsa-practice](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-dsa-practice)
 **Week 3** : Data Structures & Algorithms
-
+### 🔹 [java-collections-practice](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-collection-practice)
+**Week 4** : Collections Framework in Java
+### 🔹 [java-iostreams-practice](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-iostreams-practice)
+**Week 5** : Java I/O Streams
 ---
 
 ## 📂 Project Structure
 
-```
 BridgeLabz-Training/
 │
 ├── 📁 core-java-practice/
@@ -35,35 +37,70 @@ BridgeLabz-Training/
 │   │   ├── 📁 methods/                # Method practices
 │   │   ├── 📁 strings/                # String manipulation 
 │   │   └── 📁 Extras/                 # Built-in methods
+|   |
 │   ├── 📁 leet-code-codebase/         # LeetCode solutions
 │   └── 📁 scenario-based-codebase/    # Real-world problems
 │
-└── 📁 java-oops-practice/
-│   └── 📁 gcr-codebase/
+├── 📁 java-oops-practice/
+│   ├── 📁 gcr-codebase/
 │   │  └── 📁 JavaOopsConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
-│   │               └── 📁 constructor/       # Constructor, access modifiers
-│   │               └── 📁 finalandstatic/    # Keywords, instance vs class members
-│   │               └── 📁 objectmodeling/    # Diagrams, relationships, communication
-│   │               └── 📁 inheritance/       # Types, method overriding, & access modifiers
+│   │               ├── 📁 constructor/       # Constructor, access modifiers
+│   │               ├── 📁 finalandstatic/    # Keywords, instance vs class members
+│   │               ├── 📁 objectmodeling/    # Diagrams, relationships, communication
+│   │               ├── 📁 inheritance/       # Types, method overriding, & access modifiers
 │   │               └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
+|   |
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
 |
-└── 📁 dsa-practice/
-│   └── 📁 gcr-codebase/
+├── 📁 dsa-practice/
+│   ├── 📁 gcr-codebase/
 │   │  └── 📁 DSAConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 linkedlists/       # singly, doubly & circular
-│   │               └── 📁 stacks/            # Last-In-First-Out (LIFO)
-│   │               └── 📁 queues/            # First-In-First-Out (FIFO)
-│   │               └── 📁 hashmaps/          # Key-Value pairs
-│   │               └── 📁 sorting/           # Sorting algorithms
-│   │               └── 📁 searching/         # Searching algorithms
+│   │               ├── 📁 stacks/            # Last-In-First-Out (LIFO)
+│   │               ├── 📁 queues/            # First-In-First-Out (FIFO)
+│   │               ├── 📁 hashmaps/          # Key-Value pairs
+│   │               ├── 📁 sorting/           # Sorting algorithms
+│   │               ├── 📁 searching/         # Searching algorithms
 │   │               └── 📁 analysis/          # Runtime Analysis & Big-O Notation
+|   |
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+├── 📁 java-collections-practice/
+│   ├── 📁 gcr-codebase/
+│   │  └── 📁 CollectionsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 generics/          # Generic classes, methods, wildcards
+│   │               ├── 📁 listinterface/     # List interface and implementations
+│   │               ├── 📁 setinterface/      # Set interface and implementations
+│   │               ├── 📁 queueinterface/    # Queue & Deque interface examples
+│   │               ├── 📁 mapinterface/      # Map interface and implementations
+│   │               ├── 📁 examples/          # Hands-on example programs
+│   │               ├── 📁 streams/           # I/O streams, buffering, and serialization
+│   │               ├── 📁 exceptionhandling/ # Checked, unchecked, custom exceptions, try-with-resources
+│   │               ├── 📁 regex/             # Pattern matching, validation rules, groups & quantifiers
+│   │               ├── 📁 junit/             # Unit testing, assertions, test lifecycle, test cases
+│   │               ├── 📁 reflection/        # Runtime inspection, dynamic invocation, proxies
+│   │               └── 📁 annotations/       # Built-in & custom annotations, processors
+|   |
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+├── 📁 java-iostreams-practice/
+│   ├── 📁 gcr-codebase/
+│   │  └── 📁 IOStreamsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 csvdata/           # CSV reading/writing, validation, and large-file handling
+│   │               └── 📁 jsondata/          # JSON parsing, schema validation, mapping, conversions
+|   |
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
 |
@@ -107,6 +144,24 @@ BridgeLabz-Training/
 |  17 | 05-Jan      | Sorting Algorithms             | Sorting algorithms & comparison logic  |
 |  18 | 06-Jan      | Searching & I/O utilities      | Linear & Binary Search and FileReader  |
 |  19 | 07-Jan      | Runtime Analysis & Big-O       | Time & space complexity analysis       |
+| 20  | 13-Jan      | Trees & Binary Search Trees    | Basics, types and CRUD operations      |
+|  21 | 15-Jan      | Graphs (DFS & BFS)             | Basics and traversal algorithms        |
+---
+### **Week 4 : Collections Framework in Java**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 22  | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards |
+| 23  | 17-Jan      | Collections Framework          | Collection hierarchy, List, Set, Queue, Map, implementations        |
+| 24  | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams                  |
+| 25  | 20-Jan      | Exception Handling             | Checked, unchecked, custom exceptions, try(resources) & nested      |
+| 26  | 21-Jan      | Regex & JUnit Testing          | Pattern matching, validations, groups, unit testing, assertions     |
+| 27  | 22-Jan      | Annotations & Reflection       | Built-in & custom annotations, runtime inspection, proxies          |
+
+### **Week 5 : Java I/O Streams**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 28  | 23-Jan      | CSV Data Handling in Java      | Read/write CSV, validation, large-file processing, dataset merging  |
+| 29  | 24-Jan      | JSON Data Handling in Java     | JSON parsing, POJO mapping, schema validation, CSV to JSON, etc.    |
 
 ---
 
@@ -174,6 +229,28 @@ BridgeLabz-Training/
 - 📌 [Sorting Algorithms](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/dsapractice/src/sorting)
 - 📌 [Searching Algorithms, String & I/O utilities](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/dsapractice/src/searching)
 - 📌 [Time & Space Complexity Analysis]()
+
+
+### `java-collections-practice` :
+- 📌 [Generics](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/javaCollectionPractice/src/generics)
+- 📌 [List Interface](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/javaCollectionPractice/src/listinterface)
+- 📌 [Set Interface](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/javaCollectionPractice/src/setinterface)
+- 📌 [Queue Interface](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/javaCollectionPractice/src/queueinterface)
+- 📌 [Map Interface](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/javaCollectionPractice/src/maptinterface)
+- 📌 [Example Problems](https://github.com/Yashraj-chouhan/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/examples)
+- 📌 [I/O Streams](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/javaCollectionPractice/src/streams)
+- 📌 [Exception Handling](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/javaCollectionPractice/src/exception)
+- 📌 [Regex - Regular Expressions](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/javaCollectionPractice/src/regex)
+- 📌 [JUnit Testing](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/javaCollectionPractice/src/junit)
+- 📌 [Reflection](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/javaCollectionPractice/src/reflection)
+- 📌 [Annotations](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/javaCollectionPractice/src/annotations)
+- 📌 [Scenario-Based Solutions](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/CollectionScenarioBased/src)
+
+### `java-iostreams-practice` :
+- 📌 [CSV Data Handling](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/javaIOStream/src/main/java/com/javaIOStream/CSVdatahandling)
+- 📌 [JSON Data Handling](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/javaIOStream/src/main/java/com/javaIOStream/json)
+
+---
 
 ---
 
