@@ -297,17 +297,17 @@ BridgeLabz-Training/
 
 ### java8-programming-practice
 
-- 📌 [Lambda Expressions](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java8-programming-practice/java8programmingconcepts/src/com/lambdas)
+- 📌 [Lambda Expressions](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/java8programmingconcepts/src/com/lambdas)
 
-- 📌 [Method References](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java8-programming-practice/java8programmingconcepts/src/com/methodreferences)
+- 📌 [Method References](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/java8programmingconcepts/src/com/methodreferences)
 
-- 📌 [Interfaces](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java8-programming-practice/java8programmingconcepts/src/com/interfaces)
+- 📌 [Interfaces](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/java8programmingconcepts/src/com/interfaces)
 
-- 📌 [Streams](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java8-programming-practice/java8programmingconcepts/src/com/streams)
+- 📌 [Streams](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/java8programmingconcepts/src/com/streams)
 
-- 📌 [Collectors](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java8-programming-practice/java8programmingconcepts/src/com/collectors)
+- 📌 [Collectors](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/java8programmingconcepts/src/com/collectors)
 
-- 📌 [Workshop](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java8-programming-practice/java8programmingconcepts/src/com/workshop)
+- 📌 [Workshop](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/java8programmingconcepts/src/com/workshop/smartcity)
 
 
 ---
