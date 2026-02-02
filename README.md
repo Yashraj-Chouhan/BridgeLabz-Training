@@ -21,7 +21,11 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [java-collections-practice](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-collection-practice)
 **Week 4** : Collections Framework in Java
 ### 🔹 [java-iostreams-practice](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-iostreams-practice)
+### 🔹 [java-iostreams-practice](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-iostreams-practice)
 **Week 5** : Java I/O Streams
+
+### 🔹 [java8-programming-practice](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java8-programming-practice)
+**Week 6** : Java 8 Features
 ---
 
 ## 📂 Project Structure
@@ -73,7 +77,7 @@ BridgeLabz-Training/
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
 |
-├── 📁 java-collections-practice/
+└── 📁 java-collections-practice/
 │   ├── 📁 gcr-codebase/
 │   │  └── 📁 CollectionsConcepts/
 │   │       └── 📁 src/
@@ -91,9 +95,9 @@ BridgeLabz-Training/
 │   │               ├── 📁 reflection/        # Runtime inspection, dynamic invocation, proxies
 │   │               └── 📁 annotations/       # Built-in & custom annotations, processors
 |   |
-│   ├── 📁 leet-code-codebase/                # LeetCode solutions
-│   └── 📁 scenario-based-codebase/           # Real-world problems
-|
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
+│
 ├── 📁 java-iostreams-practice/
 │   ├── 📁 gcr-codebase/
 │   │  └── 📁 IOStreamsConcepts/
@@ -101,6 +105,21 @@ BridgeLabz-Training/
 │   │           └── 📁 com/
 │   │               ├── 📁 csvdata/           # CSV reading/writing, validation, and large-file handling
 │   │               └── 📁 jsondata/          # JSON parsing, schema validation, mapping, conversions
+|   |
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+├── 📁 java8-programming-practice/
+│   ├── 📁 gcr-codebase/
+│   │  └── 📁 Java8Concepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 lambdas/           # Lambda expressions, functional interfaces, syntax
+│   │               └── 📁 methodreferences/  # Static, instance, constructor references
+│   │               └── 📁 interfaces/        # Default methods, static methods, functional interfaces
+│   │               └── 📁 streams/           # Stream API, intermediate & terminal operations
+│   │               └── 📁 collectors/        # Grouping, partitioning, summarizing collectors
+│   │               └── 📁 workshop/          # Mini projects & real-world stream problems
 |   |
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
@@ -145,9 +164,9 @@ BridgeLabz-Training/
 |  17 | 05-Jan      | Sorting Algorithms             | Sorting algorithms & comparison logic  |
 |  18 | 06-Jan      | Searching & I/O utilities      | Linear & Binary Search and FileReader  |
 |  19 | 07-Jan      | Runtime Analysis & Big-O       | Time & space complexity analysis       |
-| 20  | 13-Jan      | Trees & Binary Search Trees    | Basics, types and CRUD operations      |
+|  20 | 13-Jan      | Trees & Binary Search Trees    | Basics, types and CRUD operations      |
 |  21 | 15-Jan      | Graphs (DFS & BFS)             | Basics and traversal algorithms        |
----
+
 ### **Week 4 : Collections Framework in Java**
 | Day |     Date    | Topic                          | Coverage                                                            |
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
@@ -163,6 +182,12 @@ BridgeLabz-Training/
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
 | 28  | 23-Jan      | CSV Data Handling in Java      | Read/write CSV, validation, large-file processing, dataset merging  |
 | 29  | 24-Jan      | JSON Data Handling in Java     | JSON parsing, POJO mapping, schema validation, CSV to JSON, etc.    |
+
+### **Week 6 : Java 8 Features**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 30  | 27-Jan      | Lambdas & Interfaces           | Lambdas, functional interfaces, method references                   |
+| 31  | 28-Jan      | Streams & Collectors           | Stream API, intermediate, terminal, collectors, parallel streams    |
 
 ---
 
@@ -196,6 +221,20 @@ BridgeLabz-Training/
 - **String Utilities**: `StringBuilder` and `StringBuffer` for mutable strings
 - **File Handling**: Reading input using `FileReader` and `InputStreamReader`
 - **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation.
+ ### Collections Framework (java-collections-practice)
+- **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure
+- **Collections Overview**: Purpose and benefits of Java Collections Framework
+- **Hierarchy**: `Iterable`, `Collection`, `List`, `Set`, `Queue`, and `Map`
+- **List Implementations**: `ArrayList`, `LinkedList`, `Vector`
+- **Set Implementations**: `HashSet`, `LinkedHashSet`, `TreeSet`
+- **Map Implementations**: `HashMap`, `LinkedHashMap`, `TreeMap`, `Hashtable`
+- **Queue & Deque**: `PriorityQueue`, `ArrayDeque`
+- **Hands-on Practice**: CRUD, iteration, ordering, and performance examples
+- **I/O Streams**: Byte & character streams, buffering, object serialization, and efficient file handling
+- **Exception Handling**: Checked vs unchecked exceptions, `try-catch-finally`, multiple and nested catch blocks, `throw` vs `throws`, custom exceptions, try-with-resources
+- **Regex & JUnit Testing**: Pattern matching, validation rules, groups, quantifiers, unit tests, assertions, test lifecycle
+- **Reflection**: Runtime class inspection, private member access, dynamic invocation, constructors, proxies, annotation processing 
+- **Annotations**: Built-in annotations, meta-annotations, custom annotations, retention policies, processors, framework usage 
   
 ---
 
@@ -250,6 +289,26 @@ BridgeLabz-Training/
 ### `java-iostreams-practice` :
 - 📌 [CSV Data Handling](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/javaIOStream/src/main/java/com/javaIOStream/CSVdatahandling)
 - 📌 [JSON Data Handling](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/javaIOStream/src/main/java/com/javaIOStream/json)
+
+
+### `java-iostreams-practice` :
+- 📌 [CSV Data Handling](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdata)
+- 📌 [JSON Data Handling](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/jsondata)
+
+### java8-programming-practice
+
+- 📌 [Lambda Expressions](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java8-programming-practice/java8programmingconcepts/src/com/lambdas)
+
+- 📌 [Method References](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java8-programming-practice/java8programmingconcepts/src/com/methodreferences)
+
+- 📌 [Interfaces](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java8-programming-practice/java8programmingconcepts/src/com/interfaces)
+
+- 📌 [Streams](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java8-programming-practice/java8programmingconcepts/src/com/streams)
+
+- 📌 [Collectors](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java8-programming-practice/java8programmingconcepts/src/com/collectors)
+
+- 📌 [Workshop](https://github.com/Yashraj-Chouhan/BridgeLabz-Training/tree/java8-programming-practice/java8programmingconcepts/src/com/workshop)
+
 
 ---
 
